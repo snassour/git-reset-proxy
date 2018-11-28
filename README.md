@@ -1,5 +1,5 @@
 # git-reset-proxy
-when you get a fatal error when trying to push, try this method
+when you get a fatal error while trying to <code>git push</code>, try this method
 
 ```
 git config --global --unset http.proxy
