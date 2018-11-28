@@ -6,3 +6,4 @@ git config --global --unset http.proxy
 git config --global --unset https.proxy
 restart your terminal
 ```
+Download the script so you don't have to come back here everytime ...
